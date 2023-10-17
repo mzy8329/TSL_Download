@@ -1,1 +1,4 @@
-./data
+mk_pictures
+data
+
+*.csv
