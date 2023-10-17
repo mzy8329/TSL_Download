@@ -1,4 +1,0 @@
-time,symbol_id,symbol_name,last,trade_volume,trade_amount,open_interest_change,bv1,bp1,ap1,av1,yesterday_close,today_open,today_high,today_low,volume,amount,open_interest
-2023-05-10 22:15:22,pg2402-P-4500,pg2402-P-4500,513.6,0.0,0.0,0.0,1,216.8,0.0,0,513.6,0.0,0.0,0.0,0.0,0.0,4
-2023-05-10 22:15:40,pg2402-P-4500,pg2402-P-4500,513.6,0.0,0.0,0.0,0,0.0,0.0,0,513.6,0.0,0.0,0.0,0.0,0.0,4
-2023-05-11 15:01:10,pg2402-P-4500,pg2402-P-4500,513.6,0.0,0.0,0.0,0,0.0,0.0,0,513.6,0.0,0.0,0.0,0.0,0.0,4

@@ -1,4 +1,0 @@
-time,symbol_id,symbol_name,last,trade_volume,trade_amount,open_interest_change,bv1,bp1,ap1,av1,yesterday_close,today_open,today_high,today_low,volume,amount,open_interest
-2023-05-09 21:00:22,i2402-C-580,i2402-C-580,114.2,0.0,0.0,0.0,1,50.0,0.0,0,114.2,0.0,0.0,0.0,0.0,0.0,3
-2023-05-09 21:01:04,i2402-C-580,i2402-C-580,114.2,0.0,0.0,0.0,1,50.1,0.0,0,114.2,0.0,0.0,0.0,0.0,0.0,3
-2023-05-10 15:01:15,i2402-C-580,i2402-C-580,114.2,0.0,0.0,0.0,1,50.1,0.0,0,114.2,0.0,0.0,0.0,0.0,0.0,3

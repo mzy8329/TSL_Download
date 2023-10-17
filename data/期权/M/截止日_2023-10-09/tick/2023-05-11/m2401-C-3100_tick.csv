@@ -1,4 +1,0 @@
-time,symbol_id,symbol_name,last,trade_volume,trade_amount,open_interest_change,bv1,bp1,ap1,av1,yesterday_close,today_open,today_high,today_low,volume,amount,open_interest
-2023-05-10 21:00:39,m2401-C-3100,m2401-C-3100,370.5,0.0,0.0,0.0,1,171.0,0.0,0,370.5,0.0,0.0,0.0,0.0,0.0,0
-2023-05-10 21:01:47,m2401-C-3100,m2401-C-3100,370.5,0.0,0.0,0.0,1,171.5,0.0,0,370.5,0.0,0.0,0.0,0.0,0.0,0
-2023-05-11 15:01:10,m2401-C-3100,m2401-C-3100,370.5,0.0,0.0,0.0,1,171.5,0.0,0,370.5,0.0,0.0,0.0,0.0,0.0,0
