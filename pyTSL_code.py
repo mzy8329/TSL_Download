@@ -120,7 +120,7 @@ path = {
 def sent_email(data):
     mail_host = "smtp.163.com"  # 设置服务器
     mail_user = "mzy8329@163.com"  # xxx是你的163邮箱用户名
-    mail_pass = "UMYMKPXIWCPGISMQ"  # 口令是你设置的163授权密码
+    mail_pass = "UMYMKPXIWCPGISMQ8"  # 口令是你设置的163授权密码
     
     sender = 'mzy8329@163.com'    #xxx是发送者邮箱
     receivers = ['253303476@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
@@ -145,7 +145,7 @@ def sent_email(data):
 
 
 def TS_INIT():
-    c = pyTSL.Client("hit", "20230427", "tsl.tinysoft.com.cn", 443)
+    c = pyTSL.Client("hit3", "202304272", "tsl.tinysoft.com.cn", 4439)
     c.login()
     return c
 
